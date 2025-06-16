@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgresql+asyncpg://postgres:4321@localhost:5432/lab4",
+            "name": "db-for-lab4"
+        }
+    ]
+}
